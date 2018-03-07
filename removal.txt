@@ -1,0 +1,4 @@
+for removing proxy set 
+get into .bashrc
+
+remove that last line with proxy shit 
